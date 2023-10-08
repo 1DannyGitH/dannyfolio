@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dannyfolio/static/css/main.3f601566.css",
+    "main.css": "/dannyfolio/static/css/main.43b03382.css",
     "main.js": "/dannyfolio/static/js/main.63fbbac1.js",
     "static/media/Kyotoav.png": "/dannyfolio/static/media/Kyotoav.7f81ede35792f6f79137.png",
     "static/media/site-bg.jpg": "/dannyfolio/static/media/site-bg.8dfab1b9a8bb0b7b90e1.jpg",
@@ -27,11 +27,11 @@
     "static/media/github-logo-1.png": "/dannyfolio/static/media/github-logo-1.82a0eb6a3eafc6dc210c.png",
     "static/media/JavaScript-logo-1.png": "/dannyfolio/static/media/JavaScript-logo-1.32be15ce10c68801e5eb.png",
     "index.html": "/dannyfolio/index.html",
-    "main.3f601566.css.map": "/dannyfolio/static/css/main.3f601566.css.map",
+    "main.43b03382.css.map": "/dannyfolio/static/css/main.43b03382.css.map",
     "main.63fbbac1.js.map": "/dannyfolio/static/js/main.63fbbac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f601566.css",
+    "static/css/main.43b03382.css",
     "static/js/main.63fbbac1.js"
   ]
 }
