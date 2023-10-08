@@ -1,0 +1,108 @@
+.workTextContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+  }
+  .centered-text {
+    text-align: center;
+    margin-left: 200px;
+  }
+  
+  .workTitle {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 200px;
+  }
+  .workTitle2 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 200px;
+  }
+  
+  .workDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    margin: 0; /* Remove the top margin */
+    margin-left: 200px;
+  }
+  .workEnd {
+    font-weight: 300;
+    font-size: 2rem;
+    margin: 0; /* Remove the top margin */
+    margin-left: 200px;
+  }
+
+  .workEnd2 {
+    font-weight: 300;
+    font-size: 2rem;
+    margin: 0; /* Remove the top margin */
+    margin-left: 200px;
+  }
+  .workDesc2 {
+    font-weight: 300;
+    font-size: 1rem;
+    margin: 0; /* Remove the top margin */
+    margin-left: 200px;
+  }
+  
+  .workImgs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+  
+  .workImgsContainer {
+    background: radial-gradient(circle, #150303, #360606, #660000, #440000);
+    border-radius: 50%;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    width: 100px; /* Set the width to match the logo's dimensions */
+    height: 100px; /* Set the height to match the logo's dimensions */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+  }
+
+  .centered-list {
+    list-style: disc; 
+    margin-left: 200px;
+    padding: 0;
+  
+  }
+  
+  .centered-list li {
+    margin: 10px 0; /* Add spacing between list items */
+  }
+
+  .workTextContainer2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 0vh;
+  }
+
+  .workImgs2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+
+ 
+
+  
+  

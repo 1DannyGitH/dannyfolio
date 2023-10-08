@@ -1,0 +1,21 @@
+
+
+.email-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .email-link {
+    font-size: 60px;
+    margin-right: 10px;
+    font-weight: 600;
+  }
+  
+  .linkedin-icon {
+    font-size: 150px;
+    color: #943333; /* LinkedIn blue color */
+  }
+  
+
+  

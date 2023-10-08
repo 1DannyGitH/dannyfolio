@@ -1,0 +1,106 @@
+.techTextContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+  }
+  
+  .techTitle {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0; /* Remove the top margin */
+  }
+  
+  .techDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    margin: 0; /* Remove the top margin */
+  }
+  
+  .techImgs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+  
+  .techImgContainer {
+    background: radial-gradient(circle, #150303, #360606, #660000, #440000);
+    border-radius: 50%;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    width: 150px; /* Set the width to match the logo's dimensions */
+    height: 150px; /* Set the height to match the logo's dimensions */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+  }
+
+  .techTextContainer2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500h;
+  }
+
+  .techImgs2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+
+  .techTextContainer3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 140vh;
+  }
+
+  .techImgs3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+
+  .conceptImage {
+    width: 400px; /* Set the desired width */
+    height: auto; /* Maintain the aspect ratio */
+  }
+
+  
+
+  .techTextContainer4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+  }
+
+  .techImgs4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    width: 100vw;
+    max-width: 65rem;
+  }
+  
+  
