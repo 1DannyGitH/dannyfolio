@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dannyfolio/static/css/main.3f601566.css",
+    "main.js": "/dannyfolio/static/js/main.63fbbac1.js",
+    "static/media/Kyotoav.png": "/dannyfolio/static/media/Kyotoav.7f81ede35792f6f79137.png",
+    "static/media/site-bg.jpg": "/dannyfolio/static/media/site-bg.8dfab1b9a8bb0b7b90e1.jpg",
+    "static/media/concepts.png": "/dannyfolio/static/media/concepts.c12eadcf3b76bab39001.png",
+    "static/media/jira-logo-1.png": "/dannyfolio/static/media/jira-logo-1.d5e72179244d4ed8e610.png",
+    "static/media/sharp-logo-1.png": "/dannyfolio/static/media/sharp-logo-1.100177b81b7206bc73b1.png",
+    "static/media/postman-logo-1.png": "/dannyfolio/static/media/postman-logo-1.f38166db2378e0b74e78.png",
+    "static/media/docker-logo-1.png": "/dannyfolio/static/media/docker-logo-1.710551ebf0e46b4b3bfc.png",
+    "static/media/python-logo-1.png": "/dannyfolio/static/media/python-logo-1.37967a81a199e3b2e5e7.png",
+    "static/media/node-logo-1.png": "/dannyfolio/static/media/node-logo-1.23c5600e74bf3cc7cf21.png",
+    "static/media/spring-logo-1.png": "/dannyfolio/static/media/spring-logo-1.974124d51fcd8f0b41e1.png",
+    "static/media/git-logo-1.png": "/dannyfolio/static/media/git-logo-1.2ab30f9804be5993ff5d.png",
+    "static/media/sql-logo-1.png": "/dannyfolio/static/media/sql-logo-1.ffc2e5d274f28df6825e.png",
+    "static/media/mongodb-logo-1.png": "/dannyfolio/static/media/mongodb-logo-1.622c38be48c1eeebd47c.png",
+    "static/media/angular-logo-1.png": "/dannyfolio/static/media/angular-logo-1.5b3e4de2eb8044549bd6.png",
+    "static/media/react-logo-1.png": "/dannyfolio/static/media/react-logo-1.de30749bd78d30ab7681.png",
+    "static/media/flask-logo-1.png": "/dannyfolio/static/media/flask-logo-1.224ffbe3ada955613fc0.png",
+    "static/media/testrail-logo-1.png": "/dannyfolio/static/media/testrail-logo-1.d196b01cd5a5c958cae9.png",
+    "static/media/php-logo-1.png": "/dannyfolio/static/media/php-logo-1.02468d8dd3e9d42985fe.png",
+    "static/media/aws-logo-1.png": "/dannyfolio/static/media/aws-logo-1.86045532f114c1db45e6.png",
+    "static/media/Cplusplus-logo-1.png": "/dannyfolio/static/media/Cplusplus-logo-1.56065f50b49d052943e2.png",
+    "static/media/java-logo-1.png": "/dannyfolio/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
+    "static/media/mysql-logo-1.png": "/dannyfolio/static/media/mysql-logo-1.89d27cce8dcc59262192.png",
+    "static/media/github-logo-1.png": "/dannyfolio/static/media/github-logo-1.82a0eb6a3eafc6dc210c.png",
+    "static/media/JavaScript-logo-1.png": "/dannyfolio/static/media/JavaScript-logo-1.32be15ce10c68801e5eb.png",
+    "index.html": "/dannyfolio/index.html",
+    "main.3f601566.css.map": "/dannyfolio/static/css/main.3f601566.css.map",
+    "main.63fbbac1.js.map": "/dannyfolio/static/js/main.63fbbac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f601566.css",
+    "static/js/main.63fbbac1.js"
+  ]
+}
