@@ -4,12 +4,12 @@
   align-items: center;
   justify-content: center;
   height: 10vh;
-  text-align: center; /* Center text */
+  width: 100%;
 }
 
 .centered-text {
   text-align: center;
-  margin-left: 0; /* Remove margin at smaller viewports */
+ 
 }
 
 .workTitle,
